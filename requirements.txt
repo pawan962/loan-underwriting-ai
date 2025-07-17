@@ -1,0 +1,10 @@
+Flask
+python-docx
+python-dotenv
+pdfplumber
+PyMuPDF
+pdf2image
+tesseract
+boto3
+openai
+
